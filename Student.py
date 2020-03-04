@@ -8,6 +8,7 @@ class Teacher:
         self.name = name
         self.subject = subject
         self.difficulty = difficulty
+Principal/Mastermind = Teacher("Mr. ", "", "Max Level")
 MathTeacher = Teacher("Ms. Bluezard", "Math", 10)
 ReligionTeacher = Teacher("Ms. Rudenccio", "Religion", 2)
 PeTeacher = Teacher("Mr. Souzas", "PE", 1)

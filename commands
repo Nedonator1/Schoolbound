@@ -1,4 +1,4 @@
-rom Backpack import inv
+from Backpack import inv
 from Backpack import itms
 from Places import Lct
 truecmds = ['>help', '>inventory', '>look', '>equip', '>inventory', '>backpack', '>bag', '>pencilcase']

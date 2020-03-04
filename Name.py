@@ -1,6 +1,7 @@
 import keyboard
 from Student import Student
 from Student import Teacher
+import command
 
 while True:
     def minimize(S):
